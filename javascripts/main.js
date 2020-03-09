@@ -9,7 +9,6 @@ const addBearEvent = (e) => {
 const init = () => {
     form.printBearForm();
     river.buildBears();
-    
 };
 
 init();
